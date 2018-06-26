@@ -1,0 +1,57 @@
+body {
+    background-image: url("../images/background.jpg");
+ }
+
+
+.card{
+    width:250px;
+    float:left;
+    margin:.5rem;
+    height: 300px;
+}
+
+.card-text{
+    color:red;
+}
+
+#buttons-view, .col-sm-9, .col-sm-3{
+    border:orange 2px solid;
+}
+
+.text-center{
+
+    color:white;
+}
+
+.categoryName{
+    color:red;
+    text-align: center;
+    text-transform: uppercase;
+}
+img{
+      height: 300px;;
+      width:10rem;
+}
+
+p{
+    font-weight: bold;
+}
+
+.card-body{
+    padding:2%;
+}
+.form-group{
+  
+
+text-align: center;
+}
+
+.btn {
+    margin: 5px;
+}
+
+label{
+    color:black;
+    font-weight: bold;
+    
+}
